@@ -1,0 +1,15 @@
+path: F:\Datasets_project\datasets\TEST1
+train: .\train
+val: .\valid
+
+# number of classes
+nc: 6
+
+# class names
+names:
+  0: trunk
+  1: street light
+  2: electric pole
+  3: roof railing
+  4: glasswall
+  5: roof
